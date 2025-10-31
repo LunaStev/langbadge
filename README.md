@@ -1,5 +1,11 @@
 # LangBadge
 
+## Example Image
+
+**Zig Repo:**
+
+![zigrepo.png](.github/zigrepo.png)
+
 ## How use
 
 ### Local
