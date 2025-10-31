@@ -14,6 +14,8 @@ or
 langbadge repo --style=github-ui
 ```
 
+---
+
 **parallel processing:**
 
 ```bash
@@ -26,6 +28,8 @@ or
 langbadge repo/ --style=github-ui --fast
 ```
 
+---
+
 ### Git
 
 ```bash
@@ -37,6 +41,8 @@ or
 ```bash
 langbadge https://github.com/wavefnd/Wave --style=github-ui
 ```
+
+---
 
 **parallel processing:**
 
