@@ -15,7 +15,7 @@ fn load_colors() -> HashMap<String, String> {
 
     let data = fs::read_to_string(&path)
         .unwrap_or_else(|_| {
-            eprintln!("⚠️ Warning: Could not read {}, using default colors", path.display());
+            eprintln!("Warning: Could not read {}, using default colors", path.display());
             "{}".to_string()
         });
 
