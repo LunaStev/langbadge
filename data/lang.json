@@ -2,6 +2,7 @@
   "languages": {
     "rs": "Rust",
     "c": "C",
+    "zc": "ZenC",
     "cpp": "C++",
     "cc": "C++",
     "cxx": "C++",
